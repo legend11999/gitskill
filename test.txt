@@ -1,2 +1,6 @@
+
 test
 local edit:rrr
+
+REMOTE edit:ttt
+
